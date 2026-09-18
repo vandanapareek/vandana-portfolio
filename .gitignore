@@ -1,0 +1,46 @@
+# WordPress configuration
+wp-config.php
+wp-config-local.php
+
+# Environment / secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Database
+*.sql
+*.sqlite
+*.sqlite3
+
+# WordPress uploads and generated files
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup*/
+wp-content/ai1wm-backups/
+
+# WordPress logs
+*.log
+debug.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Node dependencies
+node_modules/
+
+# Package manager logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
