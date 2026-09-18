@@ -15,13 +15,7 @@ It includes sections covering my background, experience, services, selected proj
 ## Built With
 
 - WordPress
-- Basin Theme
-- Kubio Page Builder
 - PHP
 - HTML
 - CSS
 - JavaScript
-
-## Author
-
-Vandana
