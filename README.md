@@ -4,7 +4,7 @@ Personal portfolio website built to showcase my experience, projects, skills, an
 
 ## Live Website
 
-https://vandana-portfolio.gt.tc/
+[Visit My Portfolio](https://vandana-portfolio.gt.tc/)
 
 ## About
 
